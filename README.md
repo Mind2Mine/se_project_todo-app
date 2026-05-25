@@ -40,7 +40,7 @@ Each class is responsible for one specific task. This keeps the code cleaner, ea
 This project is deployed on GitHub Pages.
 
 [View the deployed project here]
-()
+(https://mind2mine.github.io/se_project_todo-app/)
 
 ## Project Goals
 
